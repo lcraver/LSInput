@@ -1,4 +1,4 @@
-# LSInput
+#LSInput - [Website](http://limestudios.net/article/lsinput)
 I made LSInput to address the issues I had with Unity's input manager setup.
 
 ##Setup
